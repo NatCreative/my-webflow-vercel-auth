@@ -1,0 +1,8 @@
+{
+  "name": "my-webflow-vercel-auth",
+  "version": "1.0.0",
+  "dependencies": {
+    "@vercel/edge": "latest",
+    "@supabase/supabase-js": "latest"
+  }
+}
